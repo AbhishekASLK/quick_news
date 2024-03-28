@@ -6,14 +6,14 @@ import 'package:loading_animation_widget/loading_animation_widget.dart';
 
 const double _kSize = 70;
 
-class NewsApp extends StatefulWidget {
-  const NewsApp({super.key});
+class QuickNews extends StatefulWidget {
+  const QuickNews({super.key});
 
   @override
-  State<NewsApp> createState() => _NewsAppState();
+  State<QuickNews> createState() => _QuickNewsState();
 }
 
-class _NewsAppState extends State<NewsApp> {
+class _QuickNewsState extends State<QuickNews> {
   int cindex = 0;
   dynamic data;
   bool isDataFetched = false;
