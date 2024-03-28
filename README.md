@@ -34,7 +34,7 @@ The QuickNews App is a Flutter application that provides users with short news a
 
 ## Usage
 Upon launching the app, short news articles will be displayed.
-Scroll horizontally to view different news articles.
+Scroll vertically to view different news articles.
 Tap on a news article to read more about it in your web browser.
 
 ## Contributing
